@@ -6,6 +6,10 @@ A complete **React Native authentication app** with modern dark theme UI, smooth
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## ✨ Demo
+
+https://github.com/user-attachments/assets/6fe4f0c0-b7b1-4725-8327-82fb0e2bd3e4
+
 ## ✨ Features
 
 ### 🎯 **Core Authentication**
